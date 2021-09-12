@@ -1,0 +1,88 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm John Moon. Ever Since I was young I enjoyed outdoor activities like soccer, hiking but also loved video games. After finishing my school homework, I used to run in to the computer  to play video games. I often got errors when I install games. I was able to become familiar with computers by searching for problems on Google. and experiencing a great sense of accomplishment by solving problems. It is a funny story, but the feelings I felt at the time are one of the reasons keeps encouraging my passion for coding",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Education"
+    }
+  },
+  "projects": [
+    {
+      "title": "Amazon",
+      "startDate": "2021",
+      "description": "Amazon clone coding with reactjs",
+      "images": [
+        "images/portfolio/animal-shelter/p1.png",
+        "images/portfolio/animal-shelter/p2.gif"
+      ],
+      "url": "",
+      "technologies": [
+
+      ]
+    },
+    {
+      "title": "Netflix",
+      "startDate": "2021",
+      "description": "Netflix clone coding with reactjs",
+      "images": [
+        "images/portfolio/photography/p1.png",
+        "images/portfolio/photography/p2.gif"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "todo-list",
+      "startDate": "2021",
+      "description": "todo-list with reactjs",
+      "images": [
+        "images/portfolio/adventure/p1.png",
+        "images/portfolio/adventure/p2.gif"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Codecore College",
+      "title": "Web-development bootcamp",
+      "years": "5.2021 - today",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Bootstrap",
+        "React Material"
+      ]
+    },
+    {
+      "company": "Codecore College",
+      "title": "Web Application Development Diploma",
+      "years": "9.2020 - 5.2021",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Bootstrap",
+        "React Material"
+      ]
+    }
+  ]
+}

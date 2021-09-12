@@ -1,0 +1,75 @@
+{
+    "basic_info": {
+      "description_header": "안녕하세요",
+      "description": "👋 저는 존 문입니다. 어렸을 때부터 축구, 하이킹과 같은 야외 활동을 즐겼지만 비디오 게임도 좋아했습니다. 학교 숙제를 끝낸 후, 저는 비디오 게임을 하기 위해 컴퓨터로 뛰어 들어가곤 했습니다. 게임을 설치할 때 오류가 자주 발생합니다. 저는 구글에서 문제를 찾음으로써 컴퓨터에 친숙해질 수 있었습니다. 문제를 해결함으로써 큰 성취감을 경험하는 것입니다. 재미있는 이야기지만, 그 때 느꼈던 감정들이 코딩에 대한 제 열정을 계속 북돋아주고 있어요.",
+      "section_name": {
+        "about": "나에 대해",
+        "projects": "프로젝트",
+        "skills": "스킬",
+        "experience": "경험"
+      }
+    },
+    "projects": [
+      {
+        "title": "Amazon",
+        "startDate": "2021",
+        "description": "리액트를 사용한 아마존 클론코딩",
+        "images": [
+          "images/portfolio/animal-shelter/p1.png",
+          "images/portfolio/animal-shelter/p2.gif"
+        ],
+        "url": "",
+        "technologies": [
+  
+        ]
+      },
+      {
+        "title": "Netflix",
+        "startDate": "2021",
+        "description": "리액트를 사용한 넷플릭스 클론코딩",
+        "images": [
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.gif"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "todo-list",
+        "startDate": "2021",
+        "description": "리액트를 사용한 아마존 클론코딩",
+        "images": [
+          "images/portfolio/adventure/p1.png",
+          "images/portfolio/adventure/p2.gif"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+  
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Codecore College",
+        "title": "Front-End Developer",
+        "years": "3.2021 - 현재",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Bootstrap",
+          "React Material"
+        ]
+      }
+    ]
+  }
